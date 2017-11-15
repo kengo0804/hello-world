@@ -1,19 +1,9 @@
 # hello-world
 webスク選考
 
-// A Hello World! program in C#.
-using System;
-namespace HelloWorld
-{
-    class Hello 
-    {
-        static void Main() 
-        {
-            Console.WriteLine("Hello World!");
-
-            // Keep the console window open in debug mode.
-            Console.WriteLine("Press any key to exit.");
-            Console.ReadKey();
-        }
-    }
-}
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <title>初めてのHTML</title>
+</head>
